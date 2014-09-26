@@ -1,0 +1,17 @@
+E:\BasisGit\BasisTraining\QueueManagementApp\QueueManagementApp\bin\Debug\QueueManagementApp.exe.config
+E:\BasisGit\BasisTraining\QueueManagementApp\QueueManagementApp\obj\Debug\QueueManagementApp.QueueManagementUI.resources
+E:\BasisGit\BasisTraining\QueueManagementApp\QueueManagementApp\obj\Debug\QueueManagementApp.Properties.Resources.resources
+E:\BasisGit\BasisTraining\QueueManagementApp\QueueManagementApp\obj\Debug\QueueManagementApp.csproj.GenerateResource.Cache
+E:\BasisGit\BasisTraining\QueueManagementApp\QueueManagementApp\bin\Debug\QueueManagementApp.exe
+E:\BasisGit\BasisTraining\QueueManagementApp\QueueManagementApp\bin\Debug\QueueManagementApp.pdb
+E:\BasisGit\BasisTraining\QueueManagementApp\QueueManagementApp\obj\Debug\QueueManagementApp.exe
+E:\BasisGit\BasisTraining\QueueManagementApp\QueueManagementApp\obj\Debug\QueueManagementApp.pdb
+C:\Users\PC21\Downloads\BasisTraining-master\BasisTraining-master\QueueManagementApp\QueueManagementApp\bin\Debug\QueueManagementApp.exe.config
+C:\Users\PC21\Downloads\BasisTraining-master\BasisTraining-master\QueueManagementApp\QueueManagementApp\obj\Debug\QueueManagementApp.exe
+C:\Users\PC21\Downloads\BasisTraining-master\BasisTraining-master\QueueManagementApp\QueueManagementApp\obj\Debug\QueueManagementApp.pdb
+C:\Users\PC21\Downloads\BasisTraining-master\BasisTraining-master\QueueManagementApp\QueueManagementApp\bin\Debug\QueueManagementApp.exe
+C:\Users\PC21\Downloads\BasisTraining-master\BasisTraining-master\QueueManagementApp\QueueManagementApp\bin\Debug\QueueManagementApp.pdb
+C:\Users\PC21\Downloads\BasisTraining-master\BasisTraining-master\QueueManagementApp\QueueManagementApp\obj\Debug\QueueManagementApp.csprojResolveAssemblyReference.cache
+C:\Users\PC21\Downloads\BasisTraining-master\BasisTraining-master\QueueManagementApp\QueueManagementApp\obj\Debug\QueueManagementApp.QueueManagementUI.resources
+C:\Users\PC21\Downloads\BasisTraining-master\BasisTraining-master\QueueManagementApp\QueueManagementApp\obj\Debug\QueueManagementApp.Properties.Resources.resources
+C:\Users\PC21\Downloads\BasisTraining-master\BasisTraining-master\QueueManagementApp\QueueManagementApp\obj\Debug\QueueManagementApp.csproj.GenerateResource.Cache
