@@ -1,0 +1,21 @@
+D:\Practice\CustomerTicketApp\CustomerTicketApp\bin\Debug\CustomerTicketApp.exe.config
+D:\Practice\CustomerTicketApp\CustomerTicketApp\bin\Debug\CustomerTicketApp.exe
+D:\Practice\CustomerTicketApp\CustomerTicketApp\bin\Debug\CustomerTicketApp.pdb
+D:\Practice\CustomerTicketApp\CustomerTicketApp\obj\Debug\CustomerTicketApp.csprojResolveAssemblyReference.cache
+D:\Practice\CustomerTicketApp\CustomerTicketApp\obj\Debug\CustomerTicketApp.TicketInformationForm.resources
+D:\Practice\CustomerTicketApp\CustomerTicketApp\obj\Debug\CustomerTicketApp.Properties.Resources.resources
+D:\Practice\CustomerTicketApp\CustomerTicketApp\obj\Debug\CustomerTicketApp.csproj.GenerateResource.Cache
+D:\Practice\CustomerTicketApp\CustomerTicketApp\obj\Debug\CustomerTicketApp.exe
+D:\Practice\CustomerTicketApp\CustomerTicketApp\obj\Debug\CustomerTicketApp.pdb
+D:\Practice\Old\CustomerTicketApp\CustomerTicketApp\bin\Debug\CustomerTicketApp.exe.config
+D:\Practice\Old\CustomerTicketApp\CustomerTicketApp\obj\Debug\CustomerTicketApp.exe
+D:\Practice\Old\CustomerTicketApp\CustomerTicketApp\obj\Debug\CustomerTicketApp.pdb
+C:\Users\Asfaqur Rahman\Desktop\Upload\CustomerTicketApp\CustomerTicketApp\bin\Debug\CustomerTicketApp.exe.config
+C:\Users\Asfaqur Rahman\Desktop\Upload\CustomerTicketApp\CustomerTicketApp\obj\Debug\CustomerTicketApp.exe
+C:\Users\Asfaqur Rahman\Desktop\Upload\CustomerTicketApp\CustomerTicketApp\obj\Debug\CustomerTicketApp.pdb
+C:\Users\Asfaqur Rahman\Desktop\Upload\CustomerTicketApp\CustomerTicketApp\bin\Debug\CustomerTicketApp.exe
+C:\Users\Asfaqur Rahman\Desktop\Upload\CustomerTicketApp\CustomerTicketApp\bin\Debug\CustomerTicketApp.pdb
+C:\Users\Asfaqur Rahman\Desktop\Upload\CustomerTicketApp\CustomerTicketApp\obj\Debug\CustomerTicketApp.csprojResolveAssemblyReference.cache
+C:\Users\Asfaqur Rahman\Desktop\Upload\CustomerTicketApp\CustomerTicketApp\obj\Debug\CustomerTicketApp.TicketInformationForm.resources
+C:\Users\Asfaqur Rahman\Desktop\Upload\CustomerTicketApp\CustomerTicketApp\obj\Debug\CustomerTicketApp.Properties.Resources.resources
+C:\Users\Asfaqur Rahman\Desktop\Upload\CustomerTicketApp\CustomerTicketApp\obj\Debug\CustomerTicketApp.csproj.GenerateResource.Cache

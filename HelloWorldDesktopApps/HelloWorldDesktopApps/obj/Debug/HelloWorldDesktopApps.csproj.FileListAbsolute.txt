@@ -1,0 +1,18 @@
+D:\Practice\HelloWorldDesktopApps\HelloWorldDesktopApps\bin\Debug\HelloWorldDesktopApps.exe.config
+D:\Practice\HelloWorldDesktopApps\HelloWorldDesktopApps\bin\Debug\HelloWorldDesktopApps.exe
+D:\Practice\HelloWorldDesktopApps\HelloWorldDesktopApps\bin\Debug\HelloWorldDesktopApps.pdb
+D:\Practice\HelloWorldDesktopApps\HelloWorldDesktopApps\obj\Debug\HelloWorldDesktopApps.csprojResolveAssemblyReference.cache
+D:\Practice\HelloWorldDesktopApps\HelloWorldDesktopApps\obj\Debug\HelloWorldDesktopApps.helloWorldAppsUI.resources
+D:\Practice\HelloWorldDesktopApps\HelloWorldDesktopApps\obj\Debug\HelloWorldDesktopApps.Properties.Resources.resources
+D:\Practice\HelloWorldDesktopApps\HelloWorldDesktopApps\obj\Debug\HelloWorldDesktopApps.csproj.GenerateResource.Cache
+D:\Practice\HelloWorldDesktopApps\HelloWorldDesktopApps\obj\Debug\HelloWorldDesktopApps.exe
+D:\Practice\HelloWorldDesktopApps\HelloWorldDesktopApps\obj\Debug\HelloWorldDesktopApps.pdb
+C:\Users\Asfaqur Rahman\Desktop\Upload\HelloWorldDesktopApps\HelloWorldDesktopApps\bin\Debug\HelloWorldDesktopApps.exe.config
+C:\Users\Asfaqur Rahman\Desktop\Upload\HelloWorldDesktopApps\HelloWorldDesktopApps\obj\Debug\HelloWorldDesktopApps.exe
+C:\Users\Asfaqur Rahman\Desktop\Upload\HelloWorldDesktopApps\HelloWorldDesktopApps\obj\Debug\HelloWorldDesktopApps.pdb
+C:\Users\Asfaqur Rahman\Desktop\Upload\HelloWorldDesktopApps\HelloWorldDesktopApps\bin\Debug\HelloWorldDesktopApps.exe
+C:\Users\Asfaqur Rahman\Desktop\Upload\HelloWorldDesktopApps\HelloWorldDesktopApps\bin\Debug\HelloWorldDesktopApps.pdb
+C:\Users\Asfaqur Rahman\Desktop\Upload\HelloWorldDesktopApps\HelloWorldDesktopApps\obj\Debug\HelloWorldDesktopApps.csprojResolveAssemblyReference.cache
+C:\Users\Asfaqur Rahman\Desktop\Upload\HelloWorldDesktopApps\HelloWorldDesktopApps\obj\Debug\HelloWorldDesktopApps.helloWorldAppsUI.resources
+C:\Users\Asfaqur Rahman\Desktop\Upload\HelloWorldDesktopApps\HelloWorldDesktopApps\obj\Debug\HelloWorldDesktopApps.Properties.Resources.resources
+C:\Users\Asfaqur Rahman\Desktop\Upload\HelloWorldDesktopApps\HelloWorldDesktopApps\obj\Debug\HelloWorldDesktopApps.csproj.GenerateResource.Cache

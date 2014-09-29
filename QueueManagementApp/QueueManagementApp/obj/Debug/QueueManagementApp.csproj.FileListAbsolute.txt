@@ -15,3 +15,12 @@ C:\Users\PC21\Downloads\BasisTraining-master\BasisTraining-master\QueueManagemen
 C:\Users\PC21\Downloads\BasisTraining-master\BasisTraining-master\QueueManagementApp\QueueManagementApp\obj\Debug\QueueManagementApp.QueueManagementUI.resources
 C:\Users\PC21\Downloads\BasisTraining-master\BasisTraining-master\QueueManagementApp\QueueManagementApp\obj\Debug\QueueManagementApp.Properties.Resources.resources
 C:\Users\PC21\Downloads\BasisTraining-master\BasisTraining-master\QueueManagementApp\QueueManagementApp\obj\Debug\QueueManagementApp.csproj.GenerateResource.Cache
+C:\Users\Asfaqur Rahman\Desktop\Upload\QueueManagementApp\QueueManagementApp\bin\Debug\QueueManagementApp.exe.config
+C:\Users\Asfaqur Rahman\Desktop\Upload\QueueManagementApp\QueueManagementApp\obj\Debug\QueueManagementApp.exe
+C:\Users\Asfaqur Rahman\Desktop\Upload\QueueManagementApp\QueueManagementApp\obj\Debug\QueueManagementApp.pdb
+C:\Users\Asfaqur Rahman\Desktop\Upload\QueueManagementApp\QueueManagementApp\bin\Debug\QueueManagementApp.exe
+C:\Users\Asfaqur Rahman\Desktop\Upload\QueueManagementApp\QueueManagementApp\bin\Debug\QueueManagementApp.pdb
+C:\Users\Asfaqur Rahman\Desktop\Upload\QueueManagementApp\QueueManagementApp\obj\Debug\QueueManagementApp.csprojResolveAssemblyReference.cache
+C:\Users\Asfaqur Rahman\Desktop\Upload\QueueManagementApp\QueueManagementApp\obj\Debug\QueueManagementApp.QueueManagementUI.resources
+C:\Users\Asfaqur Rahman\Desktop\Upload\QueueManagementApp\QueueManagementApp\obj\Debug\QueueManagementApp.Properties.Resources.resources
+C:\Users\Asfaqur Rahman\Desktop\Upload\QueueManagementApp\QueueManagementApp\obj\Debug\QueueManagementApp.csproj.GenerateResource.Cache

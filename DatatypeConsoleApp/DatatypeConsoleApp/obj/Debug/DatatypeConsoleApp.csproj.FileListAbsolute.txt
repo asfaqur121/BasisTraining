@@ -1,0 +1,11 @@
+D:\Practice\DatatypeConsoleApp\DatatypeConsoleApp\bin\Debug\DatatypeConsoleApp.exe.config
+D:\Practice\DatatypeConsoleApp\DatatypeConsoleApp\bin\Debug\DatatypeConsoleApp.exe
+D:\Practice\DatatypeConsoleApp\DatatypeConsoleApp\bin\Debug\DatatypeConsoleApp.pdb
+D:\Practice\DatatypeConsoleApp\DatatypeConsoleApp\obj\Debug\DatatypeConsoleApp.exe
+D:\Practice\DatatypeConsoleApp\DatatypeConsoleApp\obj\Debug\DatatypeConsoleApp.pdb
+C:\Users\Asfaqur Rahman\Desktop\Upload\DatatypeConsoleApp\DatatypeConsoleApp\bin\Debug\DatatypeConsoleApp.exe.config
+C:\Users\Asfaqur Rahman\Desktop\Upload\DatatypeConsoleApp\DatatypeConsoleApp\obj\Debug\DatatypeConsoleApp.exe
+C:\Users\Asfaqur Rahman\Desktop\Upload\DatatypeConsoleApp\DatatypeConsoleApp\obj\Debug\DatatypeConsoleApp.pdb
+C:\Users\Asfaqur Rahman\Desktop\Upload\DatatypeConsoleApp\DatatypeConsoleApp\bin\Debug\DatatypeConsoleApp.exe
+C:\Users\Asfaqur Rahman\Desktop\Upload\DatatypeConsoleApp\DatatypeConsoleApp\bin\Debug\DatatypeConsoleApp.pdb
+C:\Users\Asfaqur Rahman\Desktop\Upload\DatatypeConsoleApp\DatatypeConsoleApp\obj\Debug\DatatypeConsoleApp.csprojResolveAssemblyReference.cache
